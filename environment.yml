@@ -13,3 +13,4 @@ dependencies:
   - pyviz_comms
   - bokeh
   - tornado<6
+  - xrviz
